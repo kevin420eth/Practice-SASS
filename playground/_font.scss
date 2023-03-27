@@ -1,0 +1,22 @@
+p{
+    color:green;
+}
+
+nav{
+    ul{
+        margin:2px;
+    }
+
+    li{
+        margin:2px;
+    }
+
+    a{
+        text-decoration: none;
+        @include important-text;
+    }
+
+    .link__img{
+        background-color: red;;
+    }
+}

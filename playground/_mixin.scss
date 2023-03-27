@@ -1,0 +1,5 @@
+@mixin important-text{
+    color:$error;
+    font-size: $font-size-xxl;
+    font-weight: 500;
+}
