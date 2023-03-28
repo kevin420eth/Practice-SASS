@@ -1,1 +1,1 @@
-p{color:green}nav ul{margin:2px}nav li{margin:2px}nav a{text-decoration:none;color:#d32752;font-size:3rem;font-weight:500}nav .link__img{background-color:red}
+p{color:green}nav ul{margin:2px}nav li,nav h5,nav a{margin:2px}nav a{text-decoration:none;color:#d32752;font-size:3rem;font-weight:500}nav .link__img{background-color:red}h5{font-size:50px}
